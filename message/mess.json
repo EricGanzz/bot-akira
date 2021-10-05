@@ -1,0 +1,13 @@
+{
+    "wait": "```Wait...```",
+    "error": {
+        "Iv": "```Sorry Brother Link That Brother Gave It Wrong```",
+        "api": "```Sorry, Our System Is Error, Try A Few More Moments```"
+    },
+    "OnlyGrup": "```Only Group```",
+    "OnlyPM": "```Only Private Message```",
+    "GrupAdmin": "```Only Admin Group```",
+    "BotAdmin": "```Bot Must Be An Admin```",
+    "OnlyOwner": "```Only Owner Bot```",
+    "OnlyPrem": "```Only User Premium```"
+}
