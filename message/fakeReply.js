@@ -53,11 +53,11 @@ exports.fakeTroli = (fake, buffer = setting.pathImg) => {
                         },
        message: {
                     orderMessage: {
-                            itemCount : 1,
+                            itemCount : 2009,
                             status: 1,
                             surface : 1,
-                            message: fake, //Kasih namalu hedeh 
-                            orderTitle: 'Bang',
+                            message: NOXYBOTZ OFFICIAL, //Kasih namalu hedeh 
+                            orderTitle: 'NOXY',
                             thumbnail: buffer, //Gambarnye
                             sellerJid: '0@s.whatsapp.net'
           
